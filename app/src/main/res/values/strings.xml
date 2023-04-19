@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAppBTU1</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="submit">Submit</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="not_registered_go_to_sign_up">not registered? go to sign up</string>
+    <string name="login">login</string>
+    <string name="already_registered_go_to_login">already registered? go to login</string>
+</resources>
